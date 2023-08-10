@@ -75,4 +75,5 @@ body{
     font-size: 25px;
     display: flex;
     justify-content: flex-end;
+    padding-right: 10px;
 }
